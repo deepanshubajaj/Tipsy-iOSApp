@@ -54,14 +54,6 @@ To run this project locally:
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="ProjectOutputs/Snapshots/mainScreen4.jpg" alt="Main Screen 4" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen5.jpg" alt="Main Screen 5" width="30%" />
-    <img src="ProjectOutputs/Snapshots/mainScreen6.jpg" alt="Main Screen 6" width="30%" />
-  </div>
-</p>
-
-<p align="center">
   *Screenshots of the Tipsy app showing different stages of the expense splitting process.*
 </p>
 
